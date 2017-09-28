@@ -1,0 +1,10 @@
+#pragma once
+
+
+
+#ifndef RT_OBJECTS_3DGEOMETRY_SPHERE
+#define RT_OBJECTS_3DGEOMETRY_SPHERE
+
+
+
+#endif
